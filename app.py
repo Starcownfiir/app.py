@@ -1,5 +1,4 @@
 from flask import Flask, request
-import requests
 from time import sleep
 import time
 from datetime import datetime
